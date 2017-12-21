@@ -15,7 +15,7 @@ import ssm.service.Service;
 public class DaoTest {
 	//@Autowired
 	//private EmpDao empDao;
-	@Autowired
+	@Autowired               
 	private Service empService;
 	//@Autowired
 	//private HibernateTemplate hibernateTemplate;
