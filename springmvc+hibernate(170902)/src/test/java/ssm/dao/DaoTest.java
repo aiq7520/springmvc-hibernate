@@ -14,7 +14,7 @@ import ssm.service.Service;
 @RunWith(SpringJUnit4ClassRunner.class)
 public class DaoTest {
 	//@Autowired
-	//private EmpDao empDao;
+	//private EmpDao empDao;、、、、、、、、、、、、、、、、、霞編
 	@Autowired               
 	private Service empService;
 	//@Autowired
